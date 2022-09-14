@@ -17,3 +17,7 @@ git log: muestra todos los commits realizados
 git branch <NombreDeLaRama>: Crea una rama
 	--list: Muestra todas las ramas
 git checkout <NombreDeLARama>: cambiar de rama
+
+git remote: muestra las conexiones con los repositorios remotos.
+    agregando:
+        add <identificador> <https>: conectamos el repositorio local al remoto
