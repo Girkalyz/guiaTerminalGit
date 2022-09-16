@@ -21,3 +21,5 @@ git checkout <NombreDeLARama>: cambiar de rama
 git remote: muestra las conexiones con los repositorios remotos.
     agregando:
         add <identificador> <https>: conectamos el repositorio local al remoto
+
+prueba de subir infromación
